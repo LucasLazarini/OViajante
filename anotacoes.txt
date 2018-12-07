@@ -1,0 +1,4 @@
+api key Google: AIzaSyBuY3wunKGrHCRczdd7jFoOrABN2ylrEmk
+api ClimaTempo: a850f495ac92b626801b8c7d18db87e5
+// BUSCAR JSON Viagem origem até destino
+https://maps.googleapis.com/maps/api/directions/json?origin=Bandeirantes,pr&destination=Santo+Ant%C3%B4nio+da+Platina,PR&key=AIzaSyAomUoTt1YSv6fWCtdieBBzCQDTWp0huEw
