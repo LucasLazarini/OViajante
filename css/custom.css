@@ -14,3 +14,26 @@
 #loadCar{
   display: none;
 }
+.bg-index{
+ background-color: #FA8200;
+}
+.font{
+  font-family: 'Lato', sans-serif;
+  color: white;
+}
+.mt-5{
+  margin-top: 5%;
+}
+.pdt-2{
+  padding-top: 2%;
+}
+.pdb-2{
+  padding-bottom: 2%;
+}
+.font-2{
+  font-family: 'Lato', sans-serif;
+  color: black;
+}
+.mgb-5{
+  margin-bottom: 5%;
+}
