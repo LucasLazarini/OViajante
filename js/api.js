@@ -1,4 +1,10 @@
-
+// ---------------Desenvolvedores-------------- //
+//                                              //
+//          Emanoel Juvêncio - 400965           //
+// 	        Leonardo Castro  - 400956           //
+//          Lucas Lazarini	 - 400950           //
+//                                              //
+// ---------------Desenvolvedores-------------- //
 
   $('#info').hide();
 
